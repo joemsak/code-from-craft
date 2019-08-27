@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Code From Craft - Code of Conduct
 
 ## Our Pledge
 
